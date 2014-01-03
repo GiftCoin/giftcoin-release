@@ -1,0 +1,9 @@
+Building giftcoin
+
+See doc/readme-qt.rst for instructions on building giftcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of giftcoin.
+
+See doc/build-*.txt for instructions on building giftcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of giftcoin.
